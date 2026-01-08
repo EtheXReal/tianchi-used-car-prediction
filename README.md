@@ -114,3 +114,7 @@ python train_xgboost.py    # XGBoost模型
 - [ ] 超参数调优（Optuna/Hyperopt）
 - [ ] 更多特征交互组合
 - [ ] 尝试神经网络模型
+
+## License
+
+MIT License
